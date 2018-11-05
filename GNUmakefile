@@ -66,7 +66,7 @@ OPT = -O -mtune=nocona \
 -funit-at-a-time \
 -falign-functions  -falign-jumps -falign-loops -falign-labels \
 -fcrossjumping \
--finline-functions -fweb, -frename-registers -funswitch-loops \
+-finline-functions -fweb -frename-registers -funswitch-loops \
 -fregmove \
 -fcse-follow-jumps \
 -fcse-skip-blocks -frerun-cse-after-loop  -frerun-loop-opt -fgcse \
